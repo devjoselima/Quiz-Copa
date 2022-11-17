@@ -1,0 +1,32 @@
+#welcome{
+    text-align: center;
+    max-width: 500px;
+}
+
+#welcome h2,
+#welcome p{
+    margin-bottom: 2rem;
+}
+
+#welcome p{
+    color: #BB2E57; 
+    font-weight: bold;  
+}
+
+#welcome img{
+    margin-top: 3rem;
+}
+
+button{
+    font-weight: bold;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: .8rem 3.5rem;
+    border-radius: 3rem;
+    color: #0B0E16;
+    background-color: #F4F6FF; 
+  }
+  
+  button:hover {
+    opacity: 0.9; 
+  }

@@ -1,0 +1,35 @@
+#question{
+    text-align: center;
+    max-width: 70%;
+    background-color: #fff;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+#question h2{
+    margin-bottom: 2rem;
+    color: #0B0E16; 
+}
+
+#info-pergunta {
+    color: #0B0E16;
+}
+
+#question p{
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+#question button{
+    font-weight: bold;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: .8rem 3.5rem;
+    border-radius: 3rem;
+    color: #F4F6FF;
+    background-color: #AF053F;
+}
+
+#question button:hover{
+    opacity: 0.8;
+}
