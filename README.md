@@ -1,4 +1,4 @@
-# Quiz da copa do mundo
+# ✔️Quiz da copa do mundo
 
 ## 📑 Descrição:
 Um quiz com varias perguntas e curiosidades sobre o maior evento de futebol do mundo.
