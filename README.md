@@ -4,7 +4,7 @@
 Um quiz com varias perguntas e curiosidades sobre o maior evento de futebol do mundo.
 Projeto feito com intuíto de **aprimorar e praticar meus conhecimentos** com as linguagens utilizadas, além de trazer bastante conhecimento sobre o futebol.
 
-<h2> 👨‍💻Tecnologias usadas:</h2>
+## 👨‍💻Tecnologias usadas:
 
 <div style="display: inline_block">
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
@@ -15,3 +15,5 @@ Projeto feito com intuíto de **aprimorar e praticar meus conhecimentos** com as
   
 </div>
 
+## 📎 Link da aplicação no ar:
+#### https://quiz-copa.vercel.app/
