@@ -2,7 +2,7 @@
 
 ## 📑 Descrição:
 Um quiz com varias perguntas e curiosidades sobre o maior evento de futebol do mundo.
-Projeto feito com intuíto de **aprimorar e praticar meus conhecimentos** com as linguagens utilizadas, além de trazer bastante conhecimento sobre o futebol.
+Projeto feito com intuíto de **aprimorar e praticar meus conhecimentos** com as linguagens utilizadas.
 
 ## 👨‍💻Tecnologias usadas:
 
