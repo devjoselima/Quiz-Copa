@@ -1,4 +1,4 @@
-# ✔️Quiz da copa do mundo
+# <a href="https://quiz-copa.vercel.app/"> ✔️Quiz da copa do mundo </a>
 
 ## 📑 Descrição:
 Um quiz com varias perguntas e curiosidades sobre o maior evento de futebol do mundo.
@@ -15,5 +15,4 @@ Projeto feito com intuíto de **aprimorar e praticar meus conhecimentos** com as
   
 </div>
 
-## 📎 Link da aplicação no ar:
-#### https://quiz-copa.vercel.app/
+
