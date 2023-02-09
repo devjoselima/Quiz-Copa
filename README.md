@@ -1,10 +1,17 @@
-# <a href="https://quiz-copa.vercel.app/"> ✔️Quiz da copa do mundo </a>
+<h1 align="center">✔️Copa do mundo Quiz</h1>
 
-## 📑 Descrição:
-Um quiz com varias perguntas e curiosidades sobre o maior evento de futebol do mundo.
-Projeto feito com intuíto de **aprimorar e praticar meus conhecimentos** com as linguagens utilizadas.
+<p align="center">
+  <a href="https://quiz-copa.vercel.app/">Ver projeto</a>
+</p>
 
-## 👨‍💻Tecnologias usadas:
+<div align="center">
+  <img alt="print" src="https://user-images.githubusercontent.com/111407140/217951929-c7f85073-4a6c-4172-af8e-82a7c1514cd9.PNG" width="400px">
+</div>
+
+## ❔ Descrição:
+Este é um quiz da Copa do Mundo, desenvolvido com HTML, CSS, JavaScript e React. Os jogadores responderão perguntas sobre Copas passadas e atuais, avaliando seus conhecimentos sobre o torneio. Com uma interface amigável e responsiva, é fácil de usar em vários dispositivos.
+
+## 🚀 Tecnologias:
 
 <div style="display: inline_block">
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
@@ -14,5 +21,3 @@ Projeto feito com intuíto de **aprimorar e praticar meus conhecimentos** com as
   <img alt="vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   
 </div>
-
-
